@@ -1,11 +1,11 @@
-# name = input("Enter your name:")
-# age = int(input("Enter your age:"))
-# print (f"""
-#        your name is {name} and your age is {age}.
-#        After 5 year your age will be {age +5}
-#         """)
+name = input("Enter your name:")
+age = int(input("Enter your age:"))
+print (f"""
+       your name is {name} and your age is {age}.
+       After 5 year your age will be {age +5}
+        """)
 
-# if  statement
+if  statement
 age = int (input("Enter age:"))
 if age >= 18:
     print("You can apply for citizenship card")
